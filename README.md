@@ -1,9 +1,8 @@
 # The picture that tastes of one ingredient
 
-[![make.fun](https://img.shields.io/badge/make.fun-the--picture--that--tastes--of--one--20261122--2047-orange)](https://make.fun)
-[![owner](https://img.shields.io/badge/owner-ahmadzeenok-blue)](https://github.com/ahmadzeenok)
-[![repo](https://img.shields.io/badge/repo-makefun--the--picture--that--tastes--of--one--20261122--2047-green)](https://github.com/ahmadzeenok/makefun-the-picture-that-tastes-of-one-20261122-2047)
-[![license](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
+[![make.fun · the-picture-that-tastes-of-one-20261122-2047](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
+[![rank](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/ahmadzeenok/makefun-the-picture-that-tastes-of-one-20261122-2047/rank.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
+[![reward](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/ahmadzeenok/makefun-the-picture-that-tastes-of-one-20261122-2047/reward.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
 
 One picture of food, painted entirely in code: a tall stack of golden
 pancakes drowned in glossy maple syrup, a melting slab of butter,
